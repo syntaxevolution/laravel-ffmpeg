@@ -23,7 +23,7 @@
         "illuminate/support": "^6.0",
         "league/flysystem": "^1.0.8",
         "php-ffmpeg/php-ffmpeg": "^0.14",
-        "symfony/process": "^5.0"
+        "symfony/process": ">=4.0"
     },
     "require-dev": {
         "mockery/mockery": "^1.2.3",
